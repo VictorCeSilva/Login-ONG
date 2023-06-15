@@ -99,23 +99,11 @@
       margin-top: 5.4rem;
   }
 
-  main .actions a:hover{
-    -webkit-animation: icon_animado 5s 2s 1 alternate;
-
-  }
   main .actions a+a {
       background-color: #FF5678;
       margin-top: 4.8rem;
   }
 
-  @keyframes icon_animado{
-    from{
-        font-size: 12rem;
-        }
-    to{
-        content: "sssssss ";
-    }
-  }
 
   main footer p {
       font-size: 1.6rem;
